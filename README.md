@@ -1,4 +1,4 @@
-                                                                 Personal Expense Tracker
+                                                  Personal Expense Tracker
 Overview:
 
 -This is a basic, command-line interface application for tracking personal expenses. It allows users to add, view, remove, and calculate the total of their recorded expenses.  
