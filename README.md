@@ -1,21 +1,34 @@
-                                                                             Personal Expense Tracker
+                                                                    Personal Expense Tracker
 Overview:
+
 -This is a basic, command-line interface application for tracking personal expenses. It allows users to add, view, remove, and calculate the total of their recorded expenses.  
 
+
 Features:
+
 -Add Expense: Record a new expense with a date, description, and amount.
+
 -View Expenses: Display a numbered list of all recorded expenses.
+
 -Remove Expense: Delete an expense by its index number.
+
 -Total Expenses: Calculate and display the sum of all expenses.
 
+
 Technologies used:
+
 -Python
+
 -VS Code
+
 -Github
 
 Steps to run:
+
 -Clone the repository.
+
 -Navigate to the project folder.
+
 -Run the program.
 
 Instructions for testing:
