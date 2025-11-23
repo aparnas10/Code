@@ -1,7 +1,9 @@
-                                                                    Personal Expense Tracker
+                                                                 Personal Expense Tracker
 Overview:
 
 -This is a basic, command-line interface application for tracking personal expenses. It allows users to add, view, remove, and calculate the total of their recorded expenses.  
+
+
 
 
 Features:
@@ -28,6 +30,8 @@ Technologies used:
 
 
 
+
+
 Steps to run:
 
 -Clone the repository.
@@ -43,6 +47,8 @@ Instructions for testing:
 -Follow these steps to test the Expense Tracker program manually:
 
 A-)Run the Program
+
+
 
 
 B-)Test Each Feature
@@ -92,6 +98,8 @@ Test: Total Expenses
 
 
 
+
+
 C-) Test Invalid Inputs
 
 -To ensure the program handles errors properly: Invalid Choice
@@ -110,6 +118,9 @@ Invalid Expense Index
 Expect: "Invalid expense index."
 
 
+
+
+
 D-) Exit the Program
 
 1. Select option 5
@@ -117,7 +128,72 @@ D-) Exit the Program
 2. Ensure the program prints "END" and terminates cleanly.
 
 
+
+
 Screenshot of output:
+
+
+
+
+
+
+
+
+
+
+
+
+![WhatsApp Image 2025-11-23 at 20 20 46_07b6e9eb](https://github.com/user-attachments/assets/68c02280-8516-4e6d-bcb2-adbb5cf1763d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![WhatsApp Image 2025-11-23 at 20 20 47_241613fc](https://github.com/user-attachments/assets/83f1b843-c499-4067-a62d-70c11b200e38)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![WhatsApp Image 2025-11-23 at 20 20 47_3dc797f6](https://github.com/user-attachments/assets/83b9d4f9-2c6b-4e29-9a31-8ad4ac3e6325)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
