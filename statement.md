@@ -1,29 +1,29 @@
-Problem Statement
+Problem Statement:
 
-Managing daily expenses manually can be time-consuming and error-prone. Many individuals struggle to keep track of how much they spend, leading to poor budgeting and financial planning. A simple, lightweight tool is needed to record expenses quickly and calculate totals without requiring complex software or spreadsheets.
-
-
+-Managing daily expenses manually can be time-consuming and error-prone. Many individuals struggle to keep track of how much they spend, leading to poor budgeting and financial planning. A simple, lightweight tool is needed to record expenses quickly and calculate totals without requiring complex software or spreadsheets.
 
 
-Scope of the Project
+
+
+Scope of the Project:
 
 The scope of this project includes:
 
-Building a command-line based application that allows users to track expenses in a straightforward manner.
+-Building a command-line based application that allows users to track expenses in a straightforward manner.
 
-Implementing core expense management functionality, such as adding, removing, viewing, and summarizing expenses.
+-Implementing core expense management functionality, such as adding, removing, viewing, and summarizing expenses.
 
-Providing a clean and intuitive menu-driven interface suitable for beginners.
+-Providing a clean and intuitive menu-driven interface suitable for beginners.
 
-The project focuses solely on local storage in memory (no file or database integration).
+-The project focuses solely on local storage in memory (no file or database integration).
 
-No graphical user interface or advanced reporting features are included in this version.
-
-
-This project is intended as a learning exercise in Python programming and OOP principles.
+-No graphical user interface or advanced reporting features are included in this version.
 
 
-Target Users
+-This project is intended as a learning exercise in Python programming and OOP principles.
+
+
+Target Users:
 
 -This application is designed for:
 
@@ -36,7 +36,7 @@ Target Users
 -Instructors or educators who want a clear example of class-based design and menu-driven programs.
 
 
- High-Level Features
+ High-Level Features:
 
 ✔ Add Expense
 
