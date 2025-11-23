@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-11-23 at 20 20 46_af636bca](https://github.com/user-attachments/assets/08d06b8b-603c-4d60-a41c-d6afb21d67ad)                                                                             Personal Expense Tracker
+                                                                             Personal Expense Tracker
 Overview:
 -This is a basic, command-line interface application for tracking personal expenses. It allows users to add, view, remove, and calculate the total of their recorded expenses.  
 
@@ -65,10 +65,7 @@ D-) Exit the Program
 
 
 Screenshot of output:
-![WhatsApp Image 2025-11-23 at 20 20 46_af636bca](https://github.com/user-attachments/assets/35634383-6fb7-4922-9fdb-9ad9c542e733)
 
-
-![WhatsApp Image 2025-11-23 at 20 20 46_7d1fd5ea](https://github.com/user-attachments/assets/1b8fa742-29b8-4c8d-ab65-00f820996086)
 
 
 
